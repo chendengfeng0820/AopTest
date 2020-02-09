@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5db8f2a8-7912-4cd6-8a85-99fbae957dee" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/easyarch/service/Impl/Log.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -417,7 +416,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1581265762301" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1581265994033" />
     <property name="last_opened_file_path" value="$USER_HOME$/桌面/spring/spring/spring_day03/代码/spring_day03/day03_eesy_05annotationAOP" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
@@ -474,7 +473,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1581260505178</updated>
-      <workItem from="1581260508721" duration="4965000" />
+      <workItem from="1581260508721" duration="5245000" />
     </task>
     <task id="LOCAL-00001" summary="注解">
       <created>1581265021879</created>
@@ -487,7 +486,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4965000" />
+    <option name="totallyTimeSpent" value="5245000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -500,17 +499,16 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-4" width="1920" height="1084" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Designer" />
       <window_info id="Image Layers" />
       <window_info id="UI Designer" />
       <window_info id="Favorites" side_tool="true" />
       <window_info id="Capture Tool" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2068404" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2068404" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Spring" />
-      <window_info anchor="bottom" id="Terminal" sideWeight="0.49945712" visible="true" weight="0.32982457" />
+      <window_info anchor="bottom" id="Spring" weight="0.32982457" />
+      <window_info active="true" anchor="bottom" id="Terminal" sideWeight="0.49945712" visible="true" weight="0.32982457" />
       <window_info anchor="bottom" id="Event Log" sideWeight="0.5005429" side_tool="true" weight="0.32982457" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
