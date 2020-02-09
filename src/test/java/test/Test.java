@@ -19,5 +19,6 @@ public class Test {
 		as.saveAccount();
 		as.delete();
 		as.update(1);
+		as.saveAccount();
 	}
 }
