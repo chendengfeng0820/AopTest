@@ -12,10 +12,12 @@ public class Test {
 
 
 	public static void main(String[] args) {
-		ApplicationContext applicationContext=new ClassPathXmlApplicationContext("ApplicationContext.xml");
+		ApplicationContext applicationContext=new ClassPathXmlApplicationContext("bean.xml");
 
 		IAccountService as= (IAccountService) applicationContext.getBean("accountservice");
 
 		as.saveAccount();
+		as.delete();
+		as.update(1);
 	}
 }

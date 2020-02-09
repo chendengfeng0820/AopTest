@@ -1,11 +1,13 @@
 package com.easyarch.service.Impl;
 
 import com.easyarch.service.IAccountService;
+import org.springframework.stereotype.Service;
 
 /**
  * @author: cdf
  * @create: 2020-02-09 23:11
  **/
+@Service("accountservice")
 public class AccountServiceImpl implements IAccountService {
 	public void saveAccount() {
 		System.out.println("保存了账户");
